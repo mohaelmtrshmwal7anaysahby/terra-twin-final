@@ -12,7 +12,7 @@ Every metric carries a provenance tier: **measured**, **modeled**, **illustrativ
 - Side-by-side comparison of Earth analogs with the Moon and Mars
 - Persona hubs: Explorer, Student, Scientist, Astronaut
 - Live analog-site weather (Open-Meteo) and NASA feeds (Perseverance, EONET)
-- 50-language i18n with RTL support (Arabic included), dark/light themes
+- 2-languages with RTL support (Arabic included), dark/light themes
 
 ## Tech stack
 
